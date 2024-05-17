@@ -6,9 +6,7 @@ Welcome to my Resume Repository! This repository contains my professional resume
 
 - [About](#about)
 - [Contents](#contents)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## About
@@ -18,14 +16,16 @@ This repository serves as a centralized location for my resume, which I update r
 ## Contents
 
 - **resume.pdf**: The main version of my resume in PDF format.
-- **resume.docx**: A Microsoft Word version of my resume.
-- **resume.md**: A Markdown version of my resume for easy viewing on GitHub.
 
-## Usage
+## Contributing
 
-Feel free to download and view my resume. You can open the PDF and DOCX files using standard software such as Adobe Acrobat Reader or Microsoft Word, respectively. The Markdown version can be viewed directly on GitHub.
+While this repository is primarily for my personal use, I welcome suggestions for improvement. If you have any feedback or suggestions, please feel free to open an issue or submit a pull request.
 
-To clone this repository, use the following command:
+## Contact
 
-```bash
-git clone https://github.com/yourusername/resume-repo.git
+If you have any questions or would like to connect, please feel free to reach out to me:
+
+Email: (Here)[yazeedmshayekh.work@gmail.com].
+LinkedIn: (Here)[www.linkedin.com/in/yazeed-mshayekh-924aa9235].
+Thank you for visiting my resume repository!
+
