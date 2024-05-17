@@ -27,5 +27,6 @@ If you have any questions or would like to connect, please feel free to reach ou
 
 Email: [Here](yazeedmshayekh.work@gmail.com).
 LinkedIn: [Here](www.linkedin.com/in/yazeed-mshayekh-924aa9235).
+
 Thank you for visiting my resume repository!
 
