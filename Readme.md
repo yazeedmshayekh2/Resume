@@ -25,7 +25,7 @@ While this repository is primarily for my personal use, I welcome suggestions fo
 
 If you have any questions or would like to connect, please feel free to reach out to me:
 
-Email: (Here)[yazeedmshayekh.work@gmail.com].
-LinkedIn: (Here)[www.linkedin.com/in/yazeed-mshayekh-924aa9235].
+Email: [Here](yazeedmshayekh.work@gmail.com).
+LinkedIn: [Here](www.linkedin.com/in/yazeed-mshayekh-924aa9235).
 Thank you for visiting my resume repository!
 
